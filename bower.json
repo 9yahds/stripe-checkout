@@ -1,0 +1,21 @@
+{
+  "name": "stripe-checkout",
+  "version": "2.0.0",
+  "authors": [
+    "9yahds <git@9yahds.com>"
+  ],
+  "description": "stripe checkout",
+  "main": "checkout.js",
+  "keywords": [
+    "stripe"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
